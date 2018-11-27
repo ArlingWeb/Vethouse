@@ -113,7 +113,7 @@
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<a href="registro/" class="btn btn-lg btn-primary btn-block">Registro</a>
 					</div>
-				</div>
+				    </div>
 			</fieldset>
 		</form>
 	</div>
